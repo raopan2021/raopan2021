@@ -55,3 +55,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raopan2021&langs_count=6)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raopan2021&layout=compact&langs_count=6) -->
+
+
+
+ <div>
+   <img align="center" height='205px' src="https://stat.leftover.cn/bbdc?userId=81709220&nickname=背单词&hide_border=true&theme=light" /><img align="center" height='180px'  src="https://github-readme-stats.leftover.cn/api/top-langs/?username=left0ver&layout=compact" />
+  
+ </div>
